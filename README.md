@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                 Hi, I'm Ajay S<br>I'm currently cursuing MCA, at Kuvempu University<br>I'm currently learning Networking And Python<br>Reach out to me at ajaysomanna5757@gmail.com
+                                                 Hi, I'm Ajay S<br/>I'm currently cursuing MCA, at Kuvempu University<br/>I'm currently learning Networking And Python<br/>Reach out to me at ajaysomanna5757@gmail.com
 
 
 ## 🌐 Socials:
